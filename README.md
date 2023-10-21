@@ -1,3 +1,3 @@
 # StellarMeQuest
 
-Godot game
+Game for entertainment
